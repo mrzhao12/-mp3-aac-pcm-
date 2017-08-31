@@ -15,3 +15,4 @@
  
  *3.一定要添加CoreMedia.framework不然会出现Undefined symbols for architecture x86_64：（模拟器64位处理器测试（iphone5以上的模拟器））
  */
+.a文件ffmpeg编译iOS端下生成的，可以带libmp3lame.a也可以不带，笔者都试试过了，都可以使用本工程
